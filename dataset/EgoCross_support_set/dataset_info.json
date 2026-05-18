@@ -1,0 +1,42 @@
+{
+  "egocross": {
+    "file_name": "train.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    }
+  },
+  "egocross_animal": {
+    "file_name": "train_animal.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    }
+  },
+  "egocross_industry": {
+    "file_name": "train_industry.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    }
+  },
+  "egocross_xsports": {
+    "file_name": "train_xsports.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    }
+  },
+  "egocross_surgery": {
+    "file_name": "train_surgery.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    }
+  }
+}

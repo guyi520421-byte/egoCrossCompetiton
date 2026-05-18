@@ -1,0 +1,650 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 8"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q17/111_7972.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_7984.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_7996.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8008.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8135.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8147.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8159.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8171.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8183.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8195.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the socket located when the operator's right hand was in contact with it around timestamp 4.83s (within segment 0.00s-10.00s)?\nA: bottom-center\nB: bottom-left\nC: bottom-right\nD: center"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/horl_q10/111_6873.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6885.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6888.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6897.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6900.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6909.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6912.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6913.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6924.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6925.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6937.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6949.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator?\nA: contact the oscilloscope\nB: decontact the board\nC: decontact the button\nD: decontact the oscilloscope"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/nip_q2/111_21847.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21859.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21871.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21883.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21888.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21900.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21912.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21924.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22010.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22022.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22034.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22046.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22177.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22189.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22201.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22213.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22555.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22558.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22567.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22570.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22579.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22582.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22591.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22594.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22597.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22598.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22609.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22610.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22621.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22622.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator's left hand?\nA: contact the board\nB: contact the oscilloscope\nC: contact the oscilloscope component\nD: contact the pliers"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/nip_q2/157_4753.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4765.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4777.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4789.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4881.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4893.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4905.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4917.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4928.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4936.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4945.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4948.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4952.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4957.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4960.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4964.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4969.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4972.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4981.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4993.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4997.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5009.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5033.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5046.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5058.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5070.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5082.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5362.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5374.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5386.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5398.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5627.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5639.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5643.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 13"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/dotc_q15/157_1809.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1821.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1833.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1845.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1916.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1928.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1940.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1952.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_2008.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_2020.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_2032.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 9"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q16/111_7824.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7825.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7833.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7836.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7837.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7845.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7848.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7849.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7857.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7860.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7869.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7888.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7900.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7912.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7924.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7972.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7984.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7996.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_8008.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>At what approximate timestamp did the operator's right hand first perform 'contact' with the screwdriver within the video segment from 0.00s to 15.00s?\nA: 1.50s\nB: 12.17s\nC: 3.25s\nD: 8.60s"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/tl_q13/157_1809.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1821.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1833.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1845.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1916.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1928.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1940.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1952.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_2008.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_2020.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_2032.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 1\nB: 2\nC: 3\nD: 5"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q14/111_6873.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6885.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6888.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6897.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6900.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6909.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6912.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6913.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6924.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6925.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6937.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6949.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator's left hand?\nA: contact the board\nB: contact the electric screwdriver\nC: contact the oscilloscope\nD: contact the oscilloscope component"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q16/111_7824.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7825.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7833.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7836.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7837.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7845.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7848.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7849.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7857.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7860.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7869.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7888.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7900.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7912.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7924.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7972.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7984.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7996.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_8008.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the button located when the operator's right hand was in contact with it around timestamp 1.20s (within segment 0.00s-10.00s)?\nA: bottom-center\nB: bottom-left\nC: bottom-right\nD: center"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/horl_q10/157_837.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_848.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_849.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_860.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_861.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_872.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_873.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_884.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_896.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_908.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_920.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator?\nA: contact the board\nB: decontact the battery\nC: decontact the board\nD: decontact the electric screwdriver"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/nip_q4/111_24456.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24519.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24531.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24543.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24555.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24588.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24600.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24612.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24624.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24786.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24798.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24810.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24822.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24834.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24846.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24858.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24870.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25001.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25013.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25018.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25025.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25028.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25030.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25037.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25040.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25042.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25052.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25054.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25060.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25064.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25072.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25079.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25084.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25091.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25103.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25325.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25334.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25337.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25346.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25349.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the screwdriver located when the operator's left hand was in contact with it around timestamp 3.60s (within segment 0.00s-10.00s)?\nA: bottom-center\nB: bottom-left\nC: bottom-right\nD: center"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/horl_q11/157_1809.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1821.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1833.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1845.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1916.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1928.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1940.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1952.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_2008.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_2020.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_2032.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 0\nB: 1\nC: 2\nD: 3"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/dotc_q14/157_837.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_848.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_849.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_860.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_861.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_872.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_873.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_884.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_896.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_908.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_920.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 8"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/dotc_q16/157_2340.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2352.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2364.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2376.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2383.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2395.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2407.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2419.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2428.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2440.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2452.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2464.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator's left hand?\nA: contact the board\nB: contact the button\nC: contact the electric screwdriver\nD: contact the power supply cables"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/nip_q5/111_36509.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36521.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36533.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36545.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36643.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36655.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36667.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36679.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36822.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36834.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36846.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36858.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36872.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36884.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36896.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36908.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37013.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37025.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37037.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37049.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37061.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37073.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37235.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37247.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37259.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37271.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37358.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37362.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37370.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37374.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37382.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37386.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37387.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37394.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37396.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37398.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37399.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37406.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37408.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>At what approximate timestamp did the operator's right hand first perform 'contact' with the socket within the video segment from 0.00s to 15.00s?\nA: 11.38s\nB: 14.83s\nC: 3.25s\nD: 7.50s"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/tl_q13/111_6527.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6551.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6563.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6873.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6885.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6888.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6897.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6900.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6909.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6912.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6913.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 9"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q15/111_7756.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7768.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7780.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7792.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7813.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7824.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7825.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7833.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7836.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7837.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7845.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7848.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7849.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7857.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7860.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7869.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7888.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7900.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7912.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7924.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>Which of the following objects (using refined categories like 'button' for all buttons) was NOT visible in the video segment from 0.00s to 10.00s?\nA: battery\nB: board\nC: oscilloscope\nD: oscilloscope component"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/onvi_q9/157_1809.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1821.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1833.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1845.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1916.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1928.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1940.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1952.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_2008.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_2020.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_2032.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>Which of the following objects (using refined categories like 'button' for all buttons) was NOT visible in the video segment from 0.00s to 10.00s?\nA: battery\nB: oscilloscope\nC: oscilloscope component\nD: power supply"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/onvi_q8/111_6873.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6885.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6888.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6897.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6900.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6909.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6912.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6913.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6924.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6925.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6937.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6949.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator?\nA: contact the power supply cables\nB: decontact the board\nC: decontact the oscilloscope component\nD: release the power supply cables"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/dotc_q16/157_2340.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2352.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2364.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2376.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2383.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2395.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2407.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2419.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2428.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2440.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2452.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2464.jpg"
+    ],
+    "domain": "industry"
+  }
+]

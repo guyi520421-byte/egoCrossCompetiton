@@ -1,0 +1,502 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Based on the video segment, what is the next direction of movement?\nA. Curve right\nB. Right\nC. Curve left\nD. Left then right"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6200.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6241.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6283.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6325.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6366.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6408.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6450.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6491.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6533.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6575.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What extreme sport is being performed in the video segment?\nA. Skiing\nB. Speedflying\nC. Jetski\nD. Mountain Bike"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6575.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6602.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6630.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6658.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6686.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6713.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6741.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6769.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6797.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6825.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 0s to 2s?\nA. Spin\nB. Jump\nC. Vault\nD. Climb"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_600.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_627.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_655.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_683.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_711.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_738.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_766.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_794.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_822.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_850.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 3s to 6s?\nA. Jump\nB. Flip\nC. Spin\nD. Roll"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2625.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2652.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2680.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2708.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2736.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2763.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2791.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2819.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2847.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2875.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Based on the video segment, what is the next direction of movement?\nA. Right\nB. Left\nC. Left then right\nD. Curve left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_675.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_716.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_758.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_800.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_841.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_883.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_925.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_966.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_1008.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_1050.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 3s to 5s?\nA. Flip\nB. Spin\nC. Fly\nD. Vault"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2300.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2327.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2355.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2383.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2411.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2438.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2466.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2494.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2522.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2550.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'jump' action begin in this video segment?\nA. 11.8s\nB. 8.9s\nC. 14.1s\nD. 2.2s"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_544.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_586.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_627.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_669.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_711.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_752.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_794.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_836.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_877.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_919.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 1s to 3s?\nA. Vault\nB. Jump\nC. Flip\nD. Fly"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2275.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2302.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2330.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2358.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2386.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2413.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2441.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2469.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2497.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2525.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What sequence of actions is performed in the time segment from 0s to 41s?\nA. Right → Bumpyforward → Right\nB. Leftright → Run → Right\nC. Leftright → Run → Curveright\nD. Curveleft → Forward → Curveleft"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4550.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4591.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4633.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4675.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4716.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4758.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4800.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4841.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4883.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4925.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What extreme sport is being performed in the video segment?\nA. Mountain Bike\nB. Jetski\nC. Parkour\nD. Speedflying"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1500.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1527.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1555.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1583.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1611.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1638.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1666.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1694.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1722.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1750.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What sequence of actions is performed in the time segment from 0s to 20s?\nA. Run → Leftright → Bumpyforward\nB. Walk → Right → Walk\nC. Run → Curveright → Walk\nD. Forward → Curveleft → Forward"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9675.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9716.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9758.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9800.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9841.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9883.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9925.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9966.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_10008.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_10050.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 2s to 6s?\nA. Vault\nB. Fly\nC. Jump\nD. Roll"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9425.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9452.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9480.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9508.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9536.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9563.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9591.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9619.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9647.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9675.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'curveleft' action begin in this video segment?\nA. 13.8s\nB. 7.2s\nC. 9.7s\nD. 1.4s"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7820.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7862.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7903.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7945.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7987.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8028.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8070.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8112.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8153.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8195.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'climb' action begin in this video segment?\nA. 9.9s\nB. 1.0s\nC. 13.7s\nD. 6.5s"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1473.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1515.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1557.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1598.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1640.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1682.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1723.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1765.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1807.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1848.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What sequence of actions is performed in the time segment from 3s to 12s?\nA. Fly → Forward → Spin\nB. Flip → Run → Jump\nC. Fly → Forward → Fly\nD. Roll → Forward → Roll"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2625.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2666.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2708.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2750.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2791.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2833.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2875.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2916.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2958.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_3000.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What sequence of actions is performed in the time segment from 0s to 9s?\nA. Flip → Flip → Run\nB. Fly → Fly → Bumpyforward\nC. Climb → Climb → Walk\nD. Climb → Roll → Bumpyforward"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2300.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2341.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2383.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2425.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2466.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2508.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2550.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2591.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2633.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2675.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'walk' action begin in this video segment?\nA. 11.3s\nB. 4.2s\nC. 6.5s\nD. 1.6s"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1584.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1625.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1667.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1709.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1750.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1792.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1834.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1875.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1917.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1959.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Based on the video segment, what is the next direction of movement?\nA. Curve left\nB. Left\nC. Left then right\nD. Curve right"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9200.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9241.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9283.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9325.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9366.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9408.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9450.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9491.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9533.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9575.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'flip' action begin in this video segment?\nA. 2.5s\nB. 12.8s\nC. 9.6s\nD. 6.1s"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2146.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2188.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2229.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2271.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2313.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2354.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2396.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2438.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2479.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2521.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'jump' action begin in this video segment?\nA. 14.7s\nB. 4.8s\nC. 6.5s\nD. 9.5s"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9312.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9354.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9396.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9437.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9479.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9521.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9562.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9604.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9646.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9687.jpg"
+    ],
+    "domain": "xsports"
+  }
+]

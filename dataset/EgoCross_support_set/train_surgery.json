@@ -1,0 +1,969 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Which surgical instrument is NOT visible in the video segment from 0.00s to 60.00s?\nA: hook\nB: scissors\nC: clipper\nD: grasper"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17876.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17901.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17926.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17951.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17976.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18001.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18026.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18051.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18076.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18101.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18126.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18151.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18176.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18201.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18226.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18251.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18276.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18301.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18326.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18351.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18376.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18401.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18426.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18451.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18476.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18501.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18526.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18551.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18576.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18601.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18626.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18651.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18676.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18701.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18726.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18751.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18776.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18801.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18826.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18851.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18876.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18901.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18926.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18951.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18976.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19001.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19026.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19051.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19076.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19101.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19126.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19151.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19176.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19201.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19226.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19251.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19276.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19301.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19326.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19351.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Following the conclusion of the 'gallbladder dissection' phase shown in the clip, what is the predicted key action that will begin the next phase?\nA: use bipolar to coagulate cystic pedicle\nB: use grasper to grasp cystic plate\nC: use grasper to pack gallbladder\nD: use grasper to retract cystic plate"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41126.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the surgical activity shown in this clip, which surgical phase immediately follows the 'clipping and cutting' phase?\nA: gallbladder dissection phase\nB: carlot triangle dissection phase\nC: gallbladder extraction phase\nD: gallbladder packaging phase"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22401.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23151.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23176.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23276.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23451.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23476.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23501.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23526.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23551.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23576.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23601.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23626.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23651.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23676.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23701.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23726.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24126.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the 'grasper' (operated by assistant surgeon right hand) located around timestamp 0.00s?\nA: top-right\nB: center-right\nC: top-left\nD: center"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19076.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19101.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19126.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19151.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19176.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19201.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19226.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19251.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19276.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19301.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the 'hook' (operated by main surgeon right hand) located around timestamp 9.89s?\nA: center-left\nB: center-right\nC: bottom-center\nD: top-center"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34451.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34476.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34501.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34526.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34551.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34576.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34601.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34626.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34651.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34676.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Following the conclusion of the 'preparation' phase shown in the clip, what is the predicted key action that will begin the next phase?\nA: use bipolar to dissect cystic duct\nB: use clipper to clip blood vessel\nC: use hook to dissect cystic artery\nD: use bipolar to dissect cystic artery"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5151.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5176.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5276.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5401.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5451.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5476.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5501.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5526.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5551.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5576.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5601.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5626.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5651.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5676.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5701.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5726.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6151.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6176.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6276.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6401.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6451.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6476.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6501.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6526.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6551.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6576.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6601.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6626.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6651.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6676.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6701.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6726.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7151.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7176.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7276.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7401.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7451.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7476.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7501.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7526.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7551.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7576.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7601.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7626.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7651.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7676.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7701.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7726.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8151.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the surgical activity shown in this clip, which surgical phase immediately follows the 'preparation' phase?\nA: gallbladder packaging phase\nB: gallbladder extraction phase\nC: carlot triangle dissection phase\nD: clipping and cutting phase"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5151.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5176.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5276.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5401.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5451.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5476.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5501.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5526.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5551.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5576.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5601.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5626.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5651.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5676.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5701.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5726.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6151.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6176.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6276.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6401.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6451.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6476.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6501.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6526.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6551.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6576.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6601.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6626.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6651.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6676.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6701.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6726.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7151.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7176.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7276.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7401.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7451.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7476.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7501.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7526.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7551.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7576.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7601.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7626.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7651.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7676.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7701.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7726.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8151.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Following the conclusion of the 'clipping and cutting' phase shown in the clip, what is the predicted key action that will begin the next phase?\nA: use grasper to retract cystic duct\nB: use hook to dissect gallbladder\nC: use irrigator to aspirate fluid\nD: use hook to coagulate cystic artery"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22401.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23151.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23176.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23276.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23451.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23476.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23501.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23526.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23551.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23576.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23601.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23626.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23651.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23676.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23701.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23726.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24126.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Which surgical instrument is NOT visible in the video segment from 0.00s to 60.00s?\nA: scissors\nB: hook\nC: clipper\nD: grasper"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17876.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17901.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17926.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17951.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17976.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18001.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18026.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18051.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18076.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18101.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18126.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18151.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18176.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18201.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18226.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18251.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18276.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18301.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18326.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18351.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18376.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18401.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18426.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18451.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18476.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18501.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18526.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18551.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18576.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18601.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18626.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18651.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18676.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18701.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18726.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18751.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18776.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18801.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18826.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18851.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18876.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18901.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18926.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18951.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18976.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19001.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19026.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19051.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19076.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19101.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19126.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19151.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19176.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19201.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19226.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19251.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19276.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19301.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19326.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19351.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>How many distinct types of surgical instruments were fully or partially visible in the video segment from 0.00s to 10.00s?\nA: 3\nB: 0\nC: 2\nD: 1"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5151.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5176.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5201.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5226.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5251.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5276.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5301.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5326.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5351.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5376.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image>Which of the following objects was NOT visible in the video segment from 0.0s to 44s?\nA: Raspatory\nB: Scissors\nC: Tweezers\nD: Suction Cannula"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_546.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_547.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_553.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_554.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_555.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_560.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_561.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_562.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_563.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_564.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_565.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_566.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_567.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_568.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image>Which tool was the operator's left hand predominantly interacting with in the video segment from 0s to 8s?\nA: Gauze\nB: Electric Cautery\nC: Skewer\nD: Raspatory"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_169.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_170.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_171.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_172.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_173.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image>Which of the following objects was NOT visible in the video segment from 0.0s to 112s?\nA: Tweezers\nB: Suction Cannula\nC: Hook\nD: Scalpel"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_197.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_198.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_199.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_200.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_201.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_239.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_240.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_241.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_242.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_243.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_244.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_245.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_249.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_253.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>How many distinct types of objects (e.g., tools, instruments) were visible in the video segment from 0.0s to 12s?\nA: 6\nB: 3\nC: 8\nD: 7"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_468.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_469.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_470.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_471.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_472.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_473.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_474.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Which tool was the operator's right hand predominantly interacting with in the video segment from 0s to 22s?\nA: Forceps\nB: Bipolar Forceps\nC: Tweezers\nD: Retractor"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_419.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_420.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_421.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_422.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_423.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_424.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_425.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_428.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_429.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_430.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the 'Suction Cannula' located when the operator's left hand was interacting with it (around timestamp 16s) in the segment from 0s to 26s?\nA: bottom-left\nB: top-center\nC: center\nD: top-left"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_492.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_493.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_494.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_495.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_496.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_497.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_498.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_499.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_500.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_501.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_502.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_503.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_504.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_505.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the 'Scissors' located when the operator's right hand was interacting with it (around timestamp 6s) in the segment from 0s to 24s?\nA: center-right\nB: center-left\nC: top-right\nD: bottom-right"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_285.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_286.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_287.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_288.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_289.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_290.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_291.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_292.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_293.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_294.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_295.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_296.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_297.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g., tools, instruments) were visible in the video segment from 0.0s to 16s?\nA: 5\nB: 2\nC: 3\nD: 6"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_380.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_381.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_382.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_383.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_384.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_385.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_386.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_387.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_388.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>Which tool was the operator's left hand predominantly interacting with in the video segment from 0s to 16s?\nA: Electric Cautery\nB: Syringe\nC: Mouth Gag\nD: Tweezers"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_630.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_631.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_632.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_633.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_636.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_637.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_638.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>Which tool was the operator's right hand predominantly interacting with in the video segment from 0s to 14s?\nA: Scissors\nB: Electric Cautery\nC: Raspatory\nD: Skewer"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_597.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_598.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_599.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_600.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_601.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_603.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_604.jpg"
+    ],
+    "domain": "surgery"
+  }
+]

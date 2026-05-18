@@ -1,0 +1,2592 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What type of animal is featured in this egocentric video segment?\nA. Cheetah\nB. Cat\nC. Alligator\nD. Shark"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/ai_q5/frame_0.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_27.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_55.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_83.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_111.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_138.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_166.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_194.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_222.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_250.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What type of animal is featured in this egocentric video segment?\nA. Wolf\nB. Cat\nC. Dog\nD. Shark"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/093/frames/ai_q3/frame_0.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_55.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_111.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_166.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_222.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_277.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_333.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_388.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_444.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_500.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Toy\nB. Floor\nC. Plant\nD. Door"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/ii_q2/frame_25.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_50.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_75.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_100.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_125.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_150.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_175.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What type of animal is featured in this egocentric video segment?\nA. Cat\nB. Dog\nC. Goose\nD. Python"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/ai_q6/frame_0.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_52.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_105.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_158.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_211.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_263.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_316.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_369.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_422.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_475.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Cat\nB. Bench\nC. Food\nD. Water"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/ii_q2/frame_0.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_25.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_50.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_75.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_100.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_125.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_150.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_175.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the plant in this video clip?\nA. 7.5-10.5 seconds\nB. 11.8-14.8 seconds\nC. 0.1-2.1 seconds\nD. 2.2-5.2 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/itl_q4/frame_0.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_44.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_88.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_133.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_177.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_222.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_266.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_311.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_355.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_400.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the other animal in this video clip?\nA. 23.2-25.8 seconds\nB. 15.6-18.1 seconds\nC. 10.4-12.9 seconds\nD. 5.2-7.7 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/itl_q3/frame_0.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_75.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_150.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_225.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_300.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_375.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_450.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_525.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_600.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_675.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Food\nB. Dog\nC. Toy\nD. Plant"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/093/frames/ii_q1/frame_0.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_25.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_50.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_75.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_100.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_125.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_150.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_175.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_200.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_225.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Other animal\nB. Plant\nC. Toy\nD. Vehicle"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/ii_q1/frame_0.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_25.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_50.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_75.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_100.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_125.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the cat in this video clip?\nA. 27.0-33.0 seconds\nB. 68.0-74.0 seconds\nC. 16.2-22.2 seconds\nD. 60.0-66.0 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/itl_q5/frame_0.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_222.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_444.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_666.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_888.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_1111.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_1333.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_1555.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_1777.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_2000.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Bird\nB. Cat\nC. Water\nD. Ball"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/005/frames/ii_q1/frame_0.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_25.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_50.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_75.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_100.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_125.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_150.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Cat\nB. Bench\nC. Door\nD. Vehicle"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/005/frames/ii_q2/frame_0.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_25.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_50.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_75.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_100.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_125.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Plant\nB. Water\nC. Dog\nD. Other animal"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/039/frames/ii_q1/frame_0.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_50.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_100.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_150.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_200.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_250.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_300.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_350.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_400.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_450.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Water\nB. Floor\nC. Filament\nD. Food"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/093/frames/ii_q2/frame_0.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_30.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_61.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_91.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_122.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_152.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_183.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_213.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_244.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_275.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>What object is the cat interacting with in this video segment?\nA. Water\nB. Food\nC. Bird\nD. Ball"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/039/frames/ii_q2/frame_0.jpg",
+      "frames/EgoPet/039/frames/ii_q2/frame_25.jpg",
+      "frames/EgoPet/039/frames/ii_q2/frame_50.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the cat in this video clip?\nA. 11.2-13.7 seconds\nB. 15.2-22.7 seconds\nC. 2.3-9.8 seconds\nD. 26.1-33.6 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/itl_q3/frame_0.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_108.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_216.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_325.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_433.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_541.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_650.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_758.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_866.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_975.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Dog\nB. Cat\nC. Vehicle\nD. Filament"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/ii_q1/frame_125.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_150.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_175.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_200.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_225.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_250.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_275.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_300.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the cat in this video clip?\nA. 5.0-7.0 seconds\nB. 12.1-14.6 seconds\nC. 2.3-4.8 seconds\nD. 7.2-9.7 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/005/frames/itl_q3/frame_0.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_47.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_94.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_141.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_188.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_236.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_283.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_330.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_377.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_425.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the cat in this video clip?\nA. 15.3-18.8 seconds\nB. 6.8-10.2 seconds\nC. 1.6-5.1 seconds\nD. 11.6-15.1 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/itl_q4/frame_0.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_52.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_105.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_158.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_211.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_263.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_316.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_369.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_422.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_475.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What type of animal is featured in this egocentric video segment?\nA. Eagle\nB. Python\nC. Wolf\nD. Cat"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/005/frames/ai_q4/frame_0.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_44.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_88.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_133.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_177.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_222.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_266.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_311.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_355.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_400.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 8"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q17/111_7972.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_7984.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_7996.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8008.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8135.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8147.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8159.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8171.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8183.jpg",
+      "frames/ENIGMA/111/frames/dotc_q17/111_8195.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the socket located when the operator's right hand was in contact with it around timestamp 4.83s (within segment 0.00s-10.00s)?\nA: bottom-center\nB: bottom-left\nC: bottom-right\nD: center"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/horl_q10/111_6873.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6885.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6888.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6897.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6900.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6909.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6912.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6913.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6924.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6925.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6937.jpg",
+      "frames/ENIGMA/111/frames/horl_q10/111_6949.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator?\nA: contact the oscilloscope\nB: decontact the board\nC: decontact the button\nD: decontact the oscilloscope"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/nip_q2/111_21847.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21859.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21871.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21883.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21888.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21900.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21912.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_21924.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22010.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22022.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22034.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22046.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22177.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22189.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22201.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22213.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22555.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22558.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22567.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22570.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22579.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22582.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22591.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22594.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22597.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22598.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22609.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22610.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22621.jpg",
+      "frames/ENIGMA/111/frames/nip_q2/111_22622.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator's left hand?\nA: contact the board\nB: contact the oscilloscope\nC: contact the oscilloscope component\nD: contact the pliers"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/nip_q2/157_4753.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4765.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4777.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4789.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4881.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4893.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4905.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4917.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4928.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4936.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4945.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4948.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4952.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4957.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4960.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4964.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4969.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4972.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4981.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4993.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_4997.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5009.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5033.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5046.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5058.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5070.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5082.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5362.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5374.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5386.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5398.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5627.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5639.jpg",
+      "frames/ENIGMA/157/frames/nip_q2/157_5643.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 13"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/dotc_q15/157_1809.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1821.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1833.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1845.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1916.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1928.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1940.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_1952.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_2008.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_2020.jpg",
+      "frames/ENIGMA/157/frames/dotc_q15/157_2032.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 9"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q16/111_7824.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7825.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7833.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7836.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7837.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7845.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7848.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7849.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7857.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7860.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7869.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7888.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7900.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7912.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7924.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7972.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7984.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7996.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_8008.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>At what approximate timestamp did the operator's right hand first perform 'contact' with the screwdriver within the video segment from 0.00s to 15.00s?\nA: 1.50s\nB: 12.17s\nC: 3.25s\nD: 8.60s"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/tl_q13/157_1809.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1821.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1833.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1845.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1916.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1928.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1940.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_1952.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_2008.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_2020.jpg",
+      "frames/ENIGMA/157/frames/tl_q13/157_2032.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 1\nB: 2\nC: 3\nD: 5"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q14/111_6873.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6885.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6888.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6897.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6900.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6909.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6912.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6913.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6924.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6925.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6937.jpg",
+      "frames/ENIGMA/111/frames/dotc_q14/111_6949.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator's left hand?\nA: contact the board\nB: contact the electric screwdriver\nC: contact the oscilloscope\nD: contact the oscilloscope component"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q16/111_7824.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7825.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7833.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7836.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7837.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7845.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7848.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7849.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7857.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7860.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7869.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7888.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7900.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7912.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7924.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7972.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7984.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_7996.jpg",
+      "frames/ENIGMA/111/frames/dotc_q16/111_8008.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the button located when the operator's right hand was in contact with it around timestamp 1.20s (within segment 0.00s-10.00s)?\nA: bottom-center\nB: bottom-left\nC: bottom-right\nD: center"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/horl_q10/157_837.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_848.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_849.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_860.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_861.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_872.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_873.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_884.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_896.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_908.jpg",
+      "frames/ENIGMA/157/frames/horl_q10/157_920.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator?\nA: contact the board\nB: decontact the battery\nC: decontact the board\nD: decontact the electric screwdriver"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/nip_q4/111_24456.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24519.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24531.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24543.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24555.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24588.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24600.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24612.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24624.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24786.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24798.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24810.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24822.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24834.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24846.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24858.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_24870.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25001.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25013.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25018.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25025.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25028.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25030.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25037.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25040.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25042.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25052.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25054.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25060.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25064.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25072.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25079.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25084.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25091.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25103.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25325.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25334.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25337.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25346.jpg",
+      "frames/ENIGMA/111/frames/nip_q4/111_25349.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the screwdriver located when the operator's left hand was in contact with it around timestamp 3.60s (within segment 0.00s-10.00s)?\nA: bottom-center\nB: bottom-left\nC: bottom-right\nD: center"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/horl_q11/157_1809.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1821.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1833.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1845.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1916.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1928.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1940.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_1952.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_2008.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_2020.jpg",
+      "frames/ENIGMA/157/frames/horl_q11/157_2032.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 0\nB: 1\nC: 2\nD: 3"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/dotc_q14/157_837.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_848.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_849.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_860.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_861.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_872.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_873.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_884.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_896.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_908.jpg",
+      "frames/ENIGMA/157/frames/dotc_q14/157_920.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 8"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/dotc_q16/157_2340.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2352.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2364.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2376.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2383.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2395.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2407.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2419.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2428.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2440.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2452.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2464.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator's left hand?\nA: contact the board\nB: contact the button\nC: contact the electric screwdriver\nD: contact the power supply cables"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/nip_q5/111_36509.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36521.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36533.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36545.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36643.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36655.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36667.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36679.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36822.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36834.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36846.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36858.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36872.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36884.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36896.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_36908.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37013.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37025.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37037.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37049.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37061.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37073.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37235.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37247.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37259.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37271.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37358.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37362.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37370.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37374.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37382.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37386.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37387.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37394.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37396.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37398.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37399.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37406.jpg",
+      "frames/ENIGMA/111/frames/nip_q5/111_37408.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>At what approximate timestamp did the operator's right hand first perform 'contact' with the socket within the video segment from 0.00s to 15.00s?\nA: 11.38s\nB: 14.83s\nC: 3.25s\nD: 7.50s"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/tl_q13/111_6527.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6551.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6563.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6873.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6885.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6888.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6897.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6900.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6909.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6912.jpg",
+      "frames/ENIGMA/111/frames/tl_q13/111_6913.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g. tools, components, buttons as a single category) were visible in the video segment from 0.00s to 10.00s?\nA: 10\nB: 11\nC: 12\nD: 9"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/dotc_q15/111_7756.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7768.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7780.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7792.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7813.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7824.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7825.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7833.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7836.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7837.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7845.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7848.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7849.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7857.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7860.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7869.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7888.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7900.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7912.jpg",
+      "frames/ENIGMA/111/frames/dotc_q15/111_7924.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image>Which of the following objects (using refined categories like 'button' for all buttons) was NOT visible in the video segment from 0.00s to 10.00s?\nA: battery\nB: board\nC: oscilloscope\nD: oscilloscope component"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/onvi_q9/157_1809.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1821.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1833.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1845.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1916.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1928.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1940.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_1952.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_2008.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_2020.jpg",
+      "frames/ENIGMA/157/frames/onvi_q9/157_2032.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>Which of the following objects (using refined categories like 'button' for all buttons) was NOT visible in the video segment from 0.00s to 10.00s?\nA: battery\nB: oscilloscope\nC: oscilloscope component\nD: power supply"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/111/frames/onvi_q8/111_6873.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6885.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6888.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6897.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6900.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6909.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6912.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6913.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6924.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6925.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6937.jpg",
+      "frames/ENIGMA/111/frames/onvi_q8/111_6949.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image>Based on the activity observed up to 30.00s, what is the predicted next type of interaction for the operator?\nA: contact the power supply cables\nB: decontact the board\nC: decontact the oscilloscope component\nD: release the power supply cables"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ENIGMA/157/frames/dotc_q16/157_2340.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2352.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2364.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2376.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2383.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2395.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2407.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2419.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2428.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2440.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2452.jpg",
+      "frames/ENIGMA/157/frames/dotc_q16/157_2464.jpg"
+    ],
+    "domain": "industry"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Based on the video segment, what is the next direction of movement?\nA. Curve right\nB. Right\nC. Curve left\nD. Left then right"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6200.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6241.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6283.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6325.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6366.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6408.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6450.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6491.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6533.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q10/frame_6575.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What extreme sport is being performed in the video segment?\nA. Skiing\nB. Speedflying\nC. Jetski\nD. Mountain Bike"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6575.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6602.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6630.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6658.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6686.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6713.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6741.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6769.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6797.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/si_q1/frame_6825.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 0s to 2s?\nA. Spin\nB. Jump\nC. Vault\nD. Climb"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_600.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_627.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_655.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_683.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_711.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_738.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_766.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_794.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_822.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q2/frame_850.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 3s to 6s?\nA. Jump\nB. Flip\nC. Spin\nD. Roll"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2625.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2652.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2680.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2708.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2736.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2763.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2791.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2819.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2847.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q4/frame_2875.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Based on the video segment, what is the next direction of movement?\nA. Right\nB. Left\nC. Left then right\nD. Curve left"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_675.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_716.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_758.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_800.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_841.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_883.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_925.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_966.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_1008.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q9/frame_1050.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 3s to 5s?\nA. Flip\nB. Spin\nC. Fly\nD. Vault"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2300.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2327.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2355.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2383.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2411.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2438.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2466.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2494.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2522.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q2/frame_2550.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'jump' action begin in this video segment?\nA. 11.8s\nB. 8.9s\nC. 14.1s\nD. 2.2s"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_544.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_586.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_627.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_669.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_711.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_752.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_794.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_836.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_877.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q6/frame_919.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 1s to 3s?\nA. Vault\nB. Jump\nC. Flip\nD. Fly"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2275.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2302.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2330.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2358.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2386.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2413.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2441.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2469.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2497.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/sai_q3/frame_2525.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What sequence of actions is performed in the time segment from 0s to 41s?\nA. Right → Bumpyforward → Right\nB. Leftright → Run → Right\nC. Leftright → Run → Curveright\nD. Curveleft → Forward → Curveleft"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4550.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4591.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4633.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4675.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4716.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4758.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4800.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4841.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4883.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q4/frame_4925.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What extreme sport is being performed in the video segment?\nA. Mountain Bike\nB. Jetski\nC. Parkour\nD. Speedflying"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1500.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1527.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1555.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1583.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1611.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1638.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1666.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1694.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1722.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/si_q1/frame_1750.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What sequence of actions is performed in the time segment from 0s to 20s?\nA. Run → Leftright → Bumpyforward\nB. Walk → Right → Walk\nC. Run → Curveright → Walk\nD. Forward → Curveleft → Forward"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9675.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9716.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9758.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9800.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9841.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9883.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9925.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_9966.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_10008.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/asi_q5/frame_10050.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What action is being performed in the video segment from 2s to 6s?\nA. Vault\nB. Fly\nC. Jump\nD. Roll"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9425.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9452.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9480.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9508.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9536.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9563.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9591.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9619.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9647.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/sai_q3/frame_9675.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'curveleft' action begin in this video segment?\nA. 13.8s\nB. 7.2s\nC. 9.7s\nD. 1.4s"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7820.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7862.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7903.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7945.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_7987.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8028.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8070.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8112.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8153.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q8/frame_8195.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'climb' action begin in this video segment?\nA. 9.9s\nB. 1.0s\nC. 13.7s\nD. 6.5s"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1473.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1515.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1557.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1598.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1640.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1682.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1723.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1765.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1807.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q7/frame_1848.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What sequence of actions is performed in the time segment from 3s to 12s?\nA. Fly → Forward → Spin\nB. Flip → Run → Jump\nC. Fly → Forward → Fly\nD. Roll → Forward → Roll"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2625.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2666.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2708.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2750.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2791.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2833.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2875.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2916.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_2958.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q6/frame_3000.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What sequence of actions is performed in the time segment from 0s to 9s?\nA. Flip → Flip → Run\nB. Fly → Fly → Bumpyforward\nC. Climb → Climb → Walk\nD. Climb → Roll → Bumpyforward"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2300.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2341.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2383.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2425.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2466.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2508.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2550.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2591.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2633.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/asi_q5/frame_2675.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'walk' action begin in this video segment?\nA. 11.3s\nB. 4.2s\nC. 6.5s\nD. 1.6s"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1584.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1625.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1667.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1709.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1750.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1792.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1834.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1875.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1917.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q9/frame_1959.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Based on the video segment, what is the next direction of movement?\nA. Curve left\nB. Left\nC. Left then right\nD. Curve right"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9200.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9241.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9283.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9325.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9366.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9408.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9450.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9491.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9533.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/dp_q11/frame_9575.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'flip' action begin in this video segment?\nA. 2.5s\nB. 12.8s\nC. 9.6s\nD. 6.1s"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2146.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2188.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2229.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2271.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2313.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2354.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2396.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2438.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2479.jpg",
+      "frames/ExtrameSportFPV/VID059/frames/atl_q8/frame_2521.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>At what approximate time does the 'jump' action begin in this video segment?\nA. 14.7s\nB. 4.8s\nC. 6.5s\nD. 9.5s"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9312.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9354.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9396.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9437.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9479.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9521.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9562.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9604.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9646.jpg",
+      "frames/ExtrameSportFPV/VID045/frames/atl_q7/frame_9687.jpg"
+    ],
+    "domain": "xsports"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Which surgical instrument is NOT visible in the video segment from 0.00s to 60.00s?\nA: hook\nB: scissors\nC: clipper\nD: grasper"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17876.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17901.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17926.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17951.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_17976.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18001.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18026.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18051.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18076.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18101.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18126.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18151.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18176.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18201.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18226.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18251.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18276.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18301.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18326.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18351.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18376.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18401.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18426.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18451.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18476.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18501.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18526.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18551.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18576.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18601.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18626.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18651.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18676.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18701.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18726.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18751.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18776.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18801.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18826.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18851.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18876.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18901.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18926.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18951.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_18976.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19001.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19026.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19051.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19076.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19101.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19126.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19151.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19176.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19201.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19226.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19251.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19276.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19301.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19326.png",
+      "frames/CholecTrack20/VID103/frames/invi_q17/frame_19351.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Following the conclusion of the 'gallbladder dissection' phase shown in the clip, what is the predicted key action that will begin the next phase?\nA: use bipolar to coagulate cystic pedicle\nB: use grasper to grasp cystic plate\nC: use grasper to pack gallbladder\nD: use grasper to retract cystic plate"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_40976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q13/frame_41126.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the surgical activity shown in this clip, which surgical phase immediately follows the 'clipping and cutting' phase?\nA: gallbladder dissection phase\nB: carlot triangle dissection phase\nC: gallbladder extraction phase\nD: gallbladder packaging phase"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_21976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22401.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_22976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23151.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23176.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23276.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23451.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23476.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23501.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23526.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23551.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23576.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23601.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23626.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23651.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23676.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23701.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23726.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_23976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q10/frame_24126.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the 'grasper' (operated by assistant surgeon right hand) located around timestamp 0.00s?\nA: top-right\nB: center-right\nC: top-left\nD: center"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19076.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19101.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19126.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19151.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19176.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19201.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19226.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19251.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19276.png",
+      "frames/CholecTrack20/VID103/frames/irl_q20/frame_19301.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the 'hook' (operated by main surgeon right hand) located around timestamp 9.89s?\nA: center-left\nB: center-right\nC: bottom-center\nD: top-center"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34451.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34476.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34501.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34526.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34551.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34576.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34601.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34626.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34651.png",
+      "frames/CholecTrack20/VID103/frames/irl_q19/frame_34676.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Following the conclusion of the 'preparation' phase shown in the clip, what is the predicted key action that will begin the next phase?\nA: use bipolar to dissect cystic duct\nB: use clipper to clip blood vessel\nC: use hook to dissect cystic artery\nD: use bipolar to dissect cystic artery"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_4976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5151.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5176.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5276.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5401.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5451.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5476.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5501.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5526.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5551.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5576.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5601.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5626.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5651.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5676.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5701.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5726.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_5976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6151.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6176.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6276.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6401.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6451.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6476.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6501.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6526.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6551.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6576.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6601.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6626.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6651.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6676.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6701.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6726.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_6976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7151.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7176.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7276.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7401.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7451.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7476.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7501.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7526.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7551.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7576.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7601.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7626.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7651.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7676.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7701.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7726.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_7976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q7/frame_8151.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Based on the surgical activity shown in this clip, which surgical phase immediately follows the 'preparation' phase?\nA: gallbladder packaging phase\nB: gallbladder extraction phase\nC: carlot triangle dissection phase\nD: clipping and cutting phase"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_4976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5151.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5176.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5276.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5401.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5451.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5476.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5501.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5526.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5551.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5576.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5601.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5626.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5651.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5676.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5701.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5726.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_5976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6151.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6176.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6276.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6401.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6451.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6476.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6501.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6526.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6551.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6576.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6601.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6626.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6651.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6676.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6701.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6726.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_6976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7151.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7176.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7201.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7226.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7251.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7276.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7301.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7326.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7351.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7376.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7401.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7426.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7451.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7476.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7501.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7526.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7551.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7576.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7601.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7626.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7651.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7676.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7701.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7726.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7751.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7776.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7801.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7826.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7851.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7876.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7901.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7926.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7951.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_7976.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8001.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8026.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8051.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8076.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8101.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8126.png",
+      "frames/CholecTrack20/VID103/frames/npp_q6/frame_8151.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Following the conclusion of the 'clipping and cutting' phase shown in the clip, what is the predicted key action that will begin the next phase?\nA: use grasper to retract cystic duct\nB: use hook to dissect gallbladder\nC: use irrigator to aspirate fluid\nD: use hook to coagulate cystic artery"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_21976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22401.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_22976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23126.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23151.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23176.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23201.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23226.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23251.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23276.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23301.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23326.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23351.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23376.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23426.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23451.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23476.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23501.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23526.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23551.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23576.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23601.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23626.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23651.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23676.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23701.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23726.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23751.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23776.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23801.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23826.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23851.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23876.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23901.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23926.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23951.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_23976.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24001.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24026.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24051.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24076.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24101.png",
+      "frames/CholecTrack20/VID103/frames/nap_q11/frame_24126.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image><image>Which surgical instrument is NOT visible in the video segment from 0.00s to 60.00s?\nA: scissors\nB: hook\nC: clipper\nD: grasper"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17876.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17901.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17926.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17951.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_17976.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18001.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18026.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18051.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18076.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18101.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18126.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18151.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18176.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18201.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18226.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18251.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18276.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18301.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18326.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18351.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18376.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18401.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18426.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18451.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18476.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18501.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18526.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18551.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18576.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18601.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18626.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18651.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18676.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18701.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18726.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18751.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18776.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18801.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18826.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18851.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18876.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18901.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18926.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18951.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_18976.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19001.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19026.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19051.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19076.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19101.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19126.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19151.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19176.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19201.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19226.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19251.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19276.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19301.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19326.png",
+      "frames/CholecTrack20/VID103/frames/invi_q16/frame_19351.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>How many distinct types of surgical instruments were fully or partially visible in the video segment from 0.00s to 10.00s?\nA: 3\nB: 0\nC: 2\nD: 1"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5151.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5176.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5201.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5226.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5251.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5276.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5301.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5326.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5351.png",
+      "frames/CholecTrack20/VID103/frames/dic_q22/frame_5376.png"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image>Which of the following objects was NOT visible in the video segment from 0.0s to 44s?\nA: Raspatory\nB: Scissors\nC: Tweezers\nD: Suction Cannula"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_546.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_547.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_553.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_554.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_555.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_560.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_561.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_562.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_563.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_564.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_565.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_566.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_567.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q12/15_1_568.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image>Which tool was the operator's left hand predominantly interacting with in the video segment from 0s to 8s?\nA: Gauze\nB: Electric Cautery\nC: Skewer\nD: Raspatory"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_169.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_170.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_171.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_172.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q20/15_1_173.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image>Which of the following objects was NOT visible in the video segment from 0.0s to 112s?\nA: Tweezers\nB: Suction Cannula\nC: Hook\nD: Scalpel"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_197.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_198.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_199.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_200.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_201.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_239.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_240.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_241.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_242.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_243.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_244.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_245.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_249.jpg",
+      "frames/EgoSurgery/15/frames/onvi_q8/15_1_253.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>How many distinct types of objects (e.g., tools, instruments) were visible in the video segment from 0.0s to 12s?\nA: 6\nB: 3\nC: 8\nD: 7"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_468.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_469.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_470.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_471.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_472.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_473.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q16/15_1_474.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>Which tool was the operator's right hand predominantly interacting with in the video segment from 0s to 22s?\nA: Forceps\nB: Bipolar Forceps\nC: Tweezers\nD: Retractor"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_419.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_420.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_421.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_422.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_423.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_424.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_425.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_428.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_429.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q11/15_1_430.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the 'Suction Cannula' located when the operator's left hand was interacting with it (around timestamp 16s) in the segment from 0s to 26s?\nA: bottom-left\nB: top-center\nC: center\nD: top-left"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_492.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_493.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_494.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_495.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_496.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_497.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_498.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_499.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_500.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_501.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_502.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_503.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_504.jpg",
+      "frames/EgoSurgery/15/frames/horl_q13/15_1_505.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image><image><image><image>Approximately in which region of the view was the 'Scissors' located when the operator's right hand was interacting with it (around timestamp 6s) in the segment from 0s to 24s?\nA: center-right\nB: center-left\nC: top-right\nD: bottom-right"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_285.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_286.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_287.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_288.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_289.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_290.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_291.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_292.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_293.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_294.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_295.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_296.jpg",
+      "frames/EgoSurgery/15/frames/horl_q18/15_1_297.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image>How many distinct types of objects (e.g., tools, instruments) were visible in the video segment from 0.0s to 16s?\nA: 5\nB: 2\nC: 3\nD: 6"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_380.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_381.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_382.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_383.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_384.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_385.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_386.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_387.jpg",
+      "frames/EgoSurgery/15/frames/dotc_q7/15_1_388.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>Which tool was the operator's left hand predominantly interacting with in the video segment from 0s to 16s?\nA: Electric Cautery\nB: Syringe\nC: Mouth Gag\nD: Tweezers"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_630.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_631.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_632.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_633.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_636.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_637.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q10/15_1_638.jpg"
+    ],
+    "domain": "surgery"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>Which tool was the operator's right hand predominantly interacting with in the video segment from 0s to 14s?\nA: Scissors\nB: Electric Cautery\nC: Raspatory\nD: Skewer"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_597.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_598.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_599.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_600.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_601.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_603.jpg",
+      "frames/EgoSurgery/15/frames/dtoi_q2/15_1_604.jpg"
+    ],
+    "domain": "surgery"
+  }
+]

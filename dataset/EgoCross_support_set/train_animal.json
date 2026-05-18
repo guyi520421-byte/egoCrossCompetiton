@@ -1,0 +1,477 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What type of animal is featured in this egocentric video segment?\nA. Cheetah\nB. Cat\nC. Alligator\nD. Shark"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/ai_q5/frame_0.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_27.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_55.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_83.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_111.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_138.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_166.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_194.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_222.jpg",
+      "frames/EgoPet/022/frames/ai_q5/frame_250.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What type of animal is featured in this egocentric video segment?\nA. Wolf\nB. Cat\nC. Dog\nD. Shark"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/093/frames/ai_q3/frame_0.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_55.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_111.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_166.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_222.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_277.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_333.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_388.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_444.jpg",
+      "frames/EgoPet/093/frames/ai_q3/frame_500.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Toy\nB. Floor\nC. Plant\nD. Door"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/ii_q2/frame_25.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_50.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_75.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_100.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_125.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_150.jpg",
+      "frames/EgoPet/022/frames/ii_q2/frame_175.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What type of animal is featured in this egocentric video segment?\nA. Cat\nB. Dog\nC. Goose\nD. Python"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/ai_q6/frame_0.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_52.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_105.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_158.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_211.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_263.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_316.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_369.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_422.jpg",
+      "frames/EgoPet/036/frames/ai_q6/frame_475.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Cat\nB. Bench\nC. Food\nD. Water"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/ii_q2/frame_0.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_25.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_50.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_75.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_100.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_125.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_150.jpg",
+      "frames/EgoPet/036/frames/ii_q2/frame_175.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the plant in this video clip?\nA. 7.5-10.5 seconds\nB. 11.8-14.8 seconds\nC. 0.1-2.1 seconds\nD. 2.2-5.2 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/itl_q4/frame_0.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_44.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_88.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_133.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_177.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_222.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_266.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_311.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_355.jpg",
+      "frames/EgoPet/022/frames/itl_q4/frame_400.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the other animal in this video clip?\nA. 23.2-25.8 seconds\nB. 15.6-18.1 seconds\nC. 10.4-12.9 seconds\nD. 5.2-7.7 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/itl_q3/frame_0.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_75.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_150.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_225.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_300.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_375.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_450.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_525.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_600.jpg",
+      "frames/EgoPet/022/frames/itl_q3/frame_675.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Food\nB. Dog\nC. Toy\nD. Plant"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/093/frames/ii_q1/frame_0.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_25.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_50.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_75.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_100.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_125.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_150.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_175.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_200.jpg",
+      "frames/EgoPet/093/frames/ii_q1/frame_225.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Other animal\nB. Plant\nC. Toy\nD. Vehicle"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/022/frames/ii_q1/frame_0.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_25.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_50.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_75.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_100.jpg",
+      "frames/EgoPet/022/frames/ii_q1/frame_125.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the cat in this video clip?\nA. 27.0-33.0 seconds\nB. 68.0-74.0 seconds\nC. 16.2-22.2 seconds\nD. 60.0-66.0 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/itl_q5/frame_0.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_222.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_444.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_666.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_888.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_1111.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_1333.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_1555.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_1777.jpg",
+      "frames/EgoPet/036/frames/itl_q5/frame_2000.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Bird\nB. Cat\nC. Water\nD. Ball"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/005/frames/ii_q1/frame_0.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_25.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_50.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_75.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_100.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_125.jpg",
+      "frames/EgoPet/005/frames/ii_q1/frame_150.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Cat\nB. Bench\nC. Door\nD. Vehicle"
+      },
+      {
+        "role": "assistant",
+        "content": "A"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/005/frames/ii_q2/frame_0.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_25.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_50.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_75.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_100.jpg",
+      "frames/EgoPet/005/frames/ii_q2/frame_125.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Plant\nB. Water\nC. Dog\nD. Other animal"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/039/frames/ii_q1/frame_0.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_50.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_100.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_150.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_200.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_250.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_300.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_350.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_400.jpg",
+      "frames/EgoPet/039/frames/ii_q1/frame_450.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Water\nB. Floor\nC. Filament\nD. Food"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/093/frames/ii_q2/frame_0.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_30.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_61.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_91.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_122.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_152.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_183.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_213.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_244.jpg",
+      "frames/EgoPet/093/frames/ii_q2/frame_275.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image>What object is the cat interacting with in this video segment?\nA. Water\nB. Food\nC. Bird\nD. Ball"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/039/frames/ii_q2/frame_0.jpg",
+      "frames/EgoPet/039/frames/ii_q2/frame_25.jpg",
+      "frames/EgoPet/039/frames/ii_q2/frame_50.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the cat in this video clip?\nA. 11.2-13.7 seconds\nB. 15.2-22.7 seconds\nC. 2.3-9.8 seconds\nD. 26.1-33.6 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/itl_q3/frame_0.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_108.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_216.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_325.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_433.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_541.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_650.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_758.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_866.jpg",
+      "frames/EgoPet/036/frames/itl_q3/frame_975.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image>What object is the cat interacting with in this video segment?\nA. Dog\nB. Cat\nC. Vehicle\nD. Filament"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/ii_q1/frame_125.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_150.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_175.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_200.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_225.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_250.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_275.jpg",
+      "frames/EgoPet/036/frames/ii_q1/frame_300.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the cat in this video clip?\nA. 5.0-7.0 seconds\nB. 12.1-14.6 seconds\nC. 2.3-4.8 seconds\nD. 7.2-9.7 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "C"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/005/frames/itl_q3/frame_0.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_47.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_94.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_141.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_188.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_236.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_283.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_330.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_377.jpg",
+      "frames/EgoPet/005/frames/itl_q3/frame_425.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>When does the cat first interact with the cat in this video clip?\nA. 15.3-18.8 seconds\nB. 6.8-10.2 seconds\nC. 1.6-5.1 seconds\nD. 11.6-15.1 seconds"
+      },
+      {
+        "role": "assistant",
+        "content": "B"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/036/frames/itl_q4/frame_0.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_52.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_105.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_158.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_211.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_263.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_316.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_369.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_422.jpg",
+      "frames/EgoPet/036/frames/itl_q4/frame_475.jpg"
+    ],
+    "domain": "animal"
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "<image><image><image><image><image><image><image><image><image><image>What type of animal is featured in this egocentric video segment?\nA. Eagle\nB. Python\nC. Wolf\nD. Cat"
+      },
+      {
+        "role": "assistant",
+        "content": "D"
+      }
+    ],
+    "images": [
+      "frames/EgoPet/005/frames/ai_q4/frame_0.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_44.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_88.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_133.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_177.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_222.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_266.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_311.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_355.jpg",
+      "frames/EgoPet/005/frames/ai_q4/frame_400.jpg"
+    ],
+    "domain": "animal"
+  }
+]
