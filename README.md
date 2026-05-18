@@ -40,11 +40,11 @@ modelscope download --model Qwen/Qwen3-VL-4B-Instruct --local_dir ./models/Qwen3
 The LoRA checkpoints are not included in this repository due to storage limitations. They can be downloaded from .
       
 After downloading, place them under lora_output/ as follows:
-
+```bash
 lora_output/
 ├── qwen3vl_time_lora/
 └── qwen3vl_time_lora_8f512_ep2_lr5e5/
-
+```
 
 ## train
 ```bash
