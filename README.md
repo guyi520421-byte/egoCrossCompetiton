@@ -37,7 +37,7 @@ modelscope download --model Qwen/Qwen3-VL-4B-Instruct --local_dir ./models/Qwen3
 ```
 ### 2. LoRA Checkpoints
 
-The LoRA checkpoints are not included in this repository due to storage limitations. They can be downloaded from .
+The LoRA checkpoints are not included in this repository due to storage limitations. They can be downloaded from https://drive.google.com/drive/folders/1dOjGz46CT59WnUKQEZJEIL9zx6nwziv3?usp=drive_link.
       
 After downloading, place them under lora_output/ as follows:
 ```bash
