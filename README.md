@@ -16,6 +16,7 @@ This project implements a cross-domain egocentric visual question answering (VQA
 - CholecTrack20
 - EgoSurgery
 - EgoPet
+- XSports
 
 ## Environment
 
